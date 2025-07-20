@@ -1922,7 +1922,7 @@ CODE:403-FORBIDDEN
 
 
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml, https://epg.pw/xmltv/epg_ID.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://i.mjh.nz/PlutoTV/us.xml.gz, https://epg.pw/xmltv/epg_MY.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epg.pw/xmltv/epg_IN.xml.gz, https://epg.pw/xmltv/epg_PH.xml.gz, https://epg.pw/xmltv/epg_PH.xml.gz, https://i.mjh.nz/SkySportNow/epg.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://www.open-epg.com/files/indonesia1.xml, https://epg.pw/xmltv/epg_US.xml.gz" vod_library="https://tunebox.space/‍vod" billed-msg="U N T U K  P E R T A N Y A A N  A T A U  L A N G G A N A N  H U B U N G I  -  W H A T S A P P / T E L E G R A M  -  0 1 1  3 1 0 9  2 6 0 5  ( A D M I N )"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml, https://epg.pw/xmltv/epg_ID.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://i.mjh.nz/PlutoTV/us.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz, https://epg.pw/xmltv/epg_MY.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epg.pw/xmltv/epg_IN.xml.gz, https://epg.pw/xmltv/epg_PH.xml.gz, https://epg.pw/xmltv/epg_PH.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://i.mjh.nz/SkySportNow/epg.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz, https://www.open-epg.com/files/indonesia1.xml, https://epg.pw/xmltv/epg_US.xml.gz" vod_library="https://tunebox.space/‍vod" billed-msg="U N T U K  P E R T A N Y A A N  A T A U  L A N G G A N A N  H U B U N G I  -  W H A T S A P P / T E L E G R A M  -  0 1 1  3 1 0 9  2 6 0 5  ( A D M I N )"
 
 
 #EXTINF:-1 tvg-id="101.astro" ch-number="101" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tv1.png" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/malaysialogo.png" group-title="MALAYSIA",101 TV1
@@ -4373,7 +4373,7 @@ https://fta1-cdn-flr.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index
 
 
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/studiouniversal.png", STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="STUDIOUNIVERSAL.ph" group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/studiouniversal.png", STUDIO UNIVERSAL
 https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 
 
@@ -4508,18 +4508,18 @@ https://tunebox.shop/promo2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="429744" tvg-name="CINEMA WORLD HD" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/cinemaworld.png" group-title="MOVIES",CINEMAWORLD PH
+#EXTINF:-1 tvg-id="CINEMA.WORLD.HD.ph" tvg-name="CINEMA WORLD HD" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/cinemaworld.png" group-title="MOVIES",CINEMAWORLD PH
 http://143.44.136.113:6910/001/2/ch00000090990000001158/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 
-#EXTINF:-1 tvg-id="TAPACTIONFLIX.ph" tvg-name="TapAction Flix" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tapaction.png" group-title="MOVIES",TAP ACTION FLIX
+#EXTINF:-1 tvg-id="Tapactionflix.Hd.ph" tvg-name="TapAction Flix" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tapaction.png" group-title="MOVIES",TAP ACTION FLIX
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
 
 
 
-#EXTINF:-1 tvg-id="TAPMOVIES.ph" tvg-name="TAP MOVIES tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tapmovies.png" group-title="MOVIES",TAP MOVIES
+#EXTINF:-1 tvg-id="Tapmovies.Hd.ph" tvg-name="TAP MOVIES tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tapmovies.png" group-title="MOVIES",TAP MOVIES
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
@@ -4527,30 +4527,30 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
-#EXTINF:-1 tvg-id="429742" tvg-name="CINEMAX" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/cinemax.png" group-title="MOVIES",CINEMAX PH
+#EXTINF:-1 tvg-id="Cg.Cinemax.ph" tvg-name="CINEMAX" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/cinemax.png" group-title="MOVIES",CINEMAX PH
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
-#EXTINF:-1 tvg-id="429749" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/hbo.png" group-title="MOVIES",HBO PH
+#EXTINF:-1 tvg-id="Cg.Hbohd.ph" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/hbo.png" group-title="MOVIES",HBO PH
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
-#EXTINF:-1 tvg-id="429754" tvg-name="HBO HITS" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/hbohits.png" group-title="MOVIES",HBO HITS PH
+#EXTINF:-1 tvg-id="Cg.Hbohits.ph" tvg-name="HBO HITS" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/hbohits.png" group-title="MOVIES",HBO HITS PH
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
-#EXTINF:-1 tvg-id="430425" tvg-name="HBO SIGNATURE" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/hbosignature.png" group-title="MOVIES",HBO SIGNATURE PH
+#EXTINF:-1 tvg-id="Cg.Hbosign.ph" tvg-name="HBO SIGNATURE" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/hbosignature.png" group-title="MOVIES",HBO SIGNATURE PH
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
-#EXTINF:-1 tvg-id="429741" tvg-name="HBO FAMILY HD" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/hbofamily.png" group-title="MOVIES",HBO FAMILY PH
+#EXTINF:-1 tvg-id="Cg.Hbofam.ph" tvg-name="HBO FAMILY HD" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/hbofamily.png" group-title="MOVIES",HBO FAMILY PH
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
 
 
@@ -4560,7 +4560,7 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
 
 
 
-#EXTINF:-1 tvg-chno="137" tvg-name="LOTUS MACAU PRD" tvg-id="322473" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/lotusmacau.png" group-title="MOVIES",LOTUS MACAU PRD
+#EXTINF:-1 tvg-id="Lotusmacau.Prd.ph" tvg-chno="137" tvg-name="LOTUS MACAU PRD" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/lotusmacau.png" group-title="MOVIES",LOTUS MACAU PRD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc692e64ea443a8fb5ac186c865a9b:01bdbe22d59b2a4504b53adc2f606cc1
@@ -4568,34 +4568,34 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/lotusmacau_prd.mpd
 
 
 
-#EXTINF:-1 tvg-chno="287" tvg-name="TMC" tvg-id="322474" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tmc.png" group-title="MOVIES",TMC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
+#EXTINF:-1 tvg-chno="287" tvg-name="TMC" tvg-id="Cg.Tagalogmovie.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tmc.png" group-title="MOVIES",TMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like G$ecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001080/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 
-#EXTINF:-1 tvg-chno="304" tvg-name="TVN MOVIES PINOY" tvg-id="434447" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvnmovies.png" group-title="MOVIES",TVN MOVIES PINOY FHD
+#EXTINF:-1 tvg-chno="304" tvg-name="Cg.Tvnmovie.ph" tvg-id="TVNMOVIESPINOY.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvnmovies.png" group-title="MOVIES",TVN MOVIES PINOY FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
 
 
-#EXTINF:-1 tvg-id="429756" tvg-name="CINEMO!" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/cinemo.png" group-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/philipineslogo3.png" group-title="MOVIES",CINEMO! 
+#EXTINF:-1 tvg-id="CINEMO!.ph" tvg-name="CINEMO!" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/cinemo.png" group-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/philipineslogo3.png" group-title="MOVIES",CINEMO! 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001254/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 
-#EXTINF:-1 tvg-id="7864" tvg-name="Cinema One" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cinemaone.png" group-title="MOVIES",CINEMAONE 
+#EXTINF:-1 tvg-id="Cinema.One.ph" tvg-name="Cinema One" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cinemaone.png" group-title="MOVIES",CINEMAONE 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.113:6910/001/2/ch00000090990000001158/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 
 
-#EXTINF:-1 tvg-id="408276" tvg-name="VIVA Cinema" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/viva.png" group-title="MOVIES",VIVA CINEMA
+#EXTINF:-1 tvg-id="VIVA.Cinema.ph" tvg-name="VIVA Cinema" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/viva.png" group-title="MOVIES",VIVA CINEMA
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
@@ -4603,7 +4603,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
-#EXTINF:-1 tvg-id="322513" tvg-name="ß
+#EXTINF:-1 tvg-id="Solar.Flix.ph" tvg-name="ß
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:-1 tvg-id="426955" tvg-name="SOLARFLIX" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/solarflix.png" group-title="MOVIES",SOLARFLIX
@@ -4616,7 +4616,7 @@ http://143.44.136.111:6910/001/2/ch00000090990000001243/manifest.mpd?virtualDoma
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_hitsmovies.mpd
 
 
-#EXTINF:-1 tvg-id="11811" tvg-name="THRILL" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/thrill.png" group-title="MOVIES",THRILL PH
+#EXTINF:-1 tvg-id="Thrill.ph" tvg-name="THRILL" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/thrill.png" group-title="MOVIES",THRILL PH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=928114ffb2394d14b5585258f70ed183:a82edc340bc73447bac16cdfed0a4c62
@@ -4624,12 +4624,12 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_thrill_sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
-#EXTINF:-1 tvg-id="429734" tvg-name="ROCK EXTREME HD" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/rockaction.png" group-title="MOVIES",ROCK ACTION PH
+#EXTINF:-1 tvg-id="Rock.Extreme.ph" tvg-name="ROCK EXTREME HD" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/rockaction.png" group-title="MOVIES",ROCK ACTION PH
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
 
 
 
-#EXTINF:-1 tvg-id="157088" tvg-name="Celestial Movies Pinoy" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/celestialmovies.png" group-title="MOVIES",CELESTIAL MOVIE PINOY
+#EXTINF:-1 tvg-id="Celestial.Movies.Pinoy.ph" tvg-name="Celestial Movies Pinoy" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/celestialmovies.png" group-title="MOVIES",CELESTIAL MOVIE PINOY
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.113:6910/001/2/ch00000090990000001077/manifest.mpd?virtualDomain=001.live_hls.zte.com
@@ -6406,27 +6406,27 @@ https://tunebox.space/‍premiersport.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="sonysport.ott",▬▬▬▬▬▬▬ SONY SPORT ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2 
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="Sony.Sports.Ten.1.HD.in" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sonysports1.png",SONY TEN SPORTS 1
+#EXTINF:-1 group-title="SPORTS" tvg-id="SONY.SPORTS.TEN.1.HD.in" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sonysports1.png",SONY TEN SPORTS 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="Sony.Sports.Ten.2.HD.in" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sonysports2.png",SONY TEN SPORTS 2
+#EXTINF:-1 group-title="SPORTS" tvg-id="SONY.SPORTS.TEN.2.HD.in" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sonysports2.png",SONY TEN SPORTS 2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="Sony.Sports.Ten.3.HD.in" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sonysports3.png",SONY TEN SPORTS 3
+#EXTINF:-1 group-title="SPORTS" tvg-id="SONY.SPORTS.TEN.3.HD.in" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sonysports3.png",SONY TEN SPORTS 3
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="Sony.Sports.Ten.4.HD.in" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sonysports4.png",SONY TEN SPORTS 4
+#EXTINF:-1 group-title="SPORTS" tvg-id="SONY.SPORTS.TEN.4.TAMIL.in" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sonysports4.png",SONY TEN SPORTS 4
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="Sony.Sports.Ten.5.in" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sonysports5.png",SONY TEN SPORTS 5
+#EXTINF:-1 group-title="SPORTS" tvg-id="SONY.SPORTS.TEN.5.HD.in" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sonysports5.png",SONY TEN SPORTS 5
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
@@ -6646,56 +6646,56 @@ https://tunebox.shop/promo2
 
 
 
-#EXTINF:-1 tvg-id="Premiere 1 BR" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/premiere.png" group-title="SPORTS",PREMIERE 1 BR
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.Clubes.HD.br" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/premiere.png" group-title="SPORTS",PREMIERE 1 BR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
 https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
 
-#EXTINF:-1 tvg-id="Premiere 2 BR" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/premiere.png" group-title="SPORTS",PREMIERE 2 BR
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.2.br" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/premiere.png" group-title="SPORTS",PREMIERE 2 BR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd2e8019f37211ca8b78a8b656f1b83a:273189c214e85b43ac36298d1c422330
 https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd
 
-#EXTINF:-1 tvg-id="Premiere 3 BR" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/premiere.png" group-title="SPORTS",PREMIERE 3 BR
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.3.br" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/premiere.png" group-title="SPORTS",PREMIERE 3 BR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9547f9aead1237c8a3b1bf0a91ed9995:534fab4541fef31921dd970c65d51848
 https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd
 
-#EXTINF:-1 tvg-id="Premiere 4 BR" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/premiere.png" group-title="SPORTS",PREMIERE 4 BR
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.4.br" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/premiere.png" group-title="SPORTS",PREMIERE 4 BR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce5d18ffd68650affce1985201983ab7:397c64e42507d95e5460830918c22a98
 https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd
 
-#EXTINF:-1 tvg-id="Premiere 5 BR" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/premiere.png" group-title="SPORTS",PREMIERE 5 BR
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.5.br" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/premiere.png" group-title="SPORTS",PREMIERE 5 BR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5a3ac0b892bfccdf352b6def9cb2764:ac0936acc0036fad2273efaa42b1fafd
 https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd
 
-#EXTINF:-1 tvg-id="Premiere 6 BR" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/premiere.png" group-title="SPORTS",PREMIERE 6 BR
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.6.br" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/premiere.png" group-title="SPORTS",PREMIERE 6 BR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=05cedc366ce4ec735ee4b33fcefbf01f:475d6dd40eaba6896e02b26a6cf34d95
 https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/cydwktwhqj/out/v1/c6e2919fe4e04a73935691f8284a4afe/cenc.mpd
 
-#EXTINF:-1 tvg-id="Premiere 7 BR" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/premiere.png" group-title="SPORTS",PREMIERE 7 BR
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.7.br" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/premiere.png" group-title="SPORTS",PREMIERE 7 BR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ce96e01eee54fb77e5cc4e7b753d6b0:184f94303d3357b9a7381ccdeee9b611
 https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/wczqphrl5k/out/v1/7a20b4be236a4a9484fdf5cdfcbe79d5/cenc.mpd
 
-#EXTINF:-1 tvg-id="Premiere 8 BR" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/premiere.png" group-title="SPORTS",PREMIERE 8 BR
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.8.br" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/premiere.png" group-title="SPORTS",PREMIERE 8 BR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -6744,31 +6744,31 @@ https://tunebox.shop/promo2
 
 
 
-#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beinmax4.png" group-title="SPORTS",BEIN SPORTS MAX 4 FRANCE
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.4.fr" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beinmax4.png" group-title="SPORTS",BEIN SPORTS MAX 4 FRANCE
 #EXTVLCOPT:http-origin=https://veplay.top/
 https://ddy6new.newkso.ru/ddy6/premium494/mono.m3u8|referer=https://veplay.top/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beinmax5.png" group-title="SPORTS",BEIN SPORTS MAX 5 FRANCE
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.5.fr" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beinmax5.png" group-title="SPORTS",BEIN SPORTS MAX 5 FRANCE
 #EXTVLCOPT:http-origin=https://veplay.top/
 https://ddy6new.newkso.ru/ddy6/premium495/mono.m3u8|referer=https://veplay.top/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beinmax6.png" group-title="SPORTS",BEIN SPORTS MAX 6 FRANCE
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.fr" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beinmax6.png" group-title="SPORTS",BEIN SPORTS MAX 6 FRANCE
 #EXTVLCOPT:http-origin=https://veplay.top/
 https://ddy6new.newkso.ru/ddy6/premium496/mono.m3u8|referer=https://veplay.top/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beinmax7.png" group-title="SPORTS",BEIN SPORTS MAX 7 FRANCE
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.7.fr" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beinmax7.png" group-title="SPORTS",BEIN SPORTS MAX 7 FRANCE
 #EXTVLCOPT:http-origin=https://veplay.top/
 https://ddy6new.newkso.ru/ddy6/premium497/mono.m3u8|referer=https://veplay.top/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beinmax8.png" group-title="SPORTS",BEIN SPORTS MAX 8 FRANCE
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.8.fr" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beinmax8.png" group-title="SPORTS",BEIN SPORTS MAX 8 FRANCE
 #EXTVLCOPT:http-origin=https://veplay.top/
 https://ddy6new.newkso.ru/ddy6/premium498/mono.m3u8|referer=https://veplay.top/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beinmax9.png" group-title="SPORTS",BEIN SPORTS MAX 9 FRANCE
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.9.fr" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beinmax9.png" group-title="SPORTS",BEIN SPORTS MAX 9 FRANCE
 #EXTVLCOPT:http-origin=https://veplay.top/
 https://ddy6new.newkso.ru/ddy6/premium499/mono.m3u8|referer=https://veplay.top/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beinmax10.png" group-title="SPORTS",BEIN SPORTS MAX 10 FRANCE
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.10.fr" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beinmax10.png" group-title="SPORTS",BEIN SPORTS MAX 10 FRANCE
 #EXTVLCOPT:http-origin=https://veplay.top/
 https://ddy6new.newkso.ru/ddy6/premium500/mono.m3u8|referer=https://veplay.top/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
@@ -10519,33 +10519,6 @@ https://d2kziuzkf9oizb.cloudfront.net/rd004/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="RADlO" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rtbnasional.png",RTB NASIONAL
 https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
