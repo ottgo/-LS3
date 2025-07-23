@@ -1921,8 +1921,7 @@ CODE:403-FORBIDDEN
 
 
 
-
-#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml, https://epg.pw/xmltv/epg_ID.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://i.mjh.nz/PlutoTV/us.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz, https://epg.pw/xmltv/epg_MY.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epg.pw/xmltv/epg_IN.xml.gz, https://epg.pw/xmltv/epg_PH.xml.gz, https://epg.pw/xmltv/epg_PH.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://i.mjh.nz/SkySportNow/epg.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz, https://www.open-epg.com/files/indonesia1.xml, https://epg.pw/xmltv/epg_US.xml.gz" vod_library="https://tunebox.space/‍vod" billed-msg="U N T U K  P E R T A N Y A A N  A T A U  L A N G G A N A N  H U B U N G I  -  W H A T S A P P / T E L E G R A M  -  0 1 1  3 1 0 9  2 6 0 5  ( A D M I N )"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml, https://epg.pw/xmltv/epg_ID.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://i.mjh.nz/PlutoTV/us.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz, https://epg.pw/xmltv/epg_MY.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epg.pw/xmltv/epg_IN.xml.gz, https://epg.pw/xmltv/epg_PH.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://i.mjh.nz/SkySportNow/epg.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz, https://www.open-epg.com/files/indonesia1.xml" vod_library="https://tunebox.space/‍vod" billed-msg="U N T U K  P E R T A N Y A A N  A T A U  L A N G G A N A N  H U B U N G I  -  W H A T S A P P / T E L E G R A M  -  0 1 1  3 1 0 9  2 6 0 5  ( A D M I N )"
 
 
 #EXTINF:-1 tvg-id="101.astro" ch-number="101" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tv1.png" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/malaysialogo.png" group-title="MALAYSIA",101 TV1
@@ -2763,7 +2762,7 @@ https://tunebox.space/‍junior.m3u
 
 #EXTINF:-1 tvg-id="611.astro" ch-number="611" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ceria.png", 611 CERIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dw6mw1Q8Kdf1E+uIbrdPiA", "kid":"tuYMoNKOj5c5Xwe04uU6EA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"AAAALHBzc2gAAAAA7e+", "kid":"LqXnWSs6jyCfc1R0h7QAAAAwiBDUwNTdI49yVmwY" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://tunebox.space/‍ceria.mpd
 
@@ -3066,6 +3065,7 @@ https://tunebox.space/‍premierleague3.mp4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kf6+hDwIx8xSPv2CcpLkDg", "kid":"efQChzCsypq4sA8mFY3bEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+http://s1.an94tv.cfd/astro/CH-0/AKTV.m3u8
 https://tunebox.space/‍football.mpd
 
 
@@ -5896,7 +5896,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
 
 
 
-#EXTINF:1 tvg-id="ANIPLUS.HD.sg" ch-number="472" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/aniplus.png" group-title="KIDS",ANIPLUS HD
+#EXTINF:-1 tvg-id="ANIPLUS.HD.sg" ch-number="472" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/aniplus.png" group-title="KIDS",ANIPLUS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 http://exm3u.extraott.com/live/ZUL96376/UG4VTW4E/191846.ts
 
@@ -6218,6 +6218,7 @@ https://tunebox.space/‍bola2.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7hrhzQhvqb/AUF5tXp4n6Q", "kid":"isiy968FrYKYBTRaUXvBEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="805.astro" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/supersportsuhd.png", SUPERSPORT UHD
+http://s1.an94tv.cfd/astro/astrosportuhd/AKTV.m3u8
 https://tunebox.space/‍supersportsuhd.mpd
 
 
@@ -6541,6 +6542,12 @@ https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/8f9b6c2d1e4a7890f3a5b1
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/8f9b6c2d1e4a7890f3a5b1c8d7e6f4a3.m3u8
 
 
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="skysportsf1" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportsf1.png",SKY SPORTS F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+http://s1.an94tv.cfd/aktv2/skysportsf1/AKTV.m3u8
+
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/skysportsbundesliga.png" ,Sky Sport Bundesliga
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
@@ -6712,26 +6719,26 @@ https://tunebox.shop/promo2
 
 
 
-#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dazn1.png" group-title="SPORTS",DAZN 1 FR
+#EXTINF:-1 tvg-id="DAZN.1.FR.be" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dazn1.png" group-title="SPORTS",DAZN 1 FR
 http://iptvtree.net:8080/F25093/29838750/54437
 
-#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dazn2.png" group-title="SPORTS",DAZN 2 FR
+#EXTINF:-1 tvg-id="DAZN.2.FR.be" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dazn2.png" group-title="SPORTS",DAZN 2 FR
 http://iptvtree.net:8080/F25093/29838750/54444
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/daznf1.png" group-title="SPORTS", DAZN F1 ES
+#EXTINF:-1 tvg-id="DAZN.F1.es" tvg-name="ES: DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/daznf1.png" group-title="SPORTS", DAZN F1 ES
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115840
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dazn1.png" group-title="SPORTS", DAZN 1 ES
+#EXTINF:-1 tvg-id="DAZN.1.es" tvg-name="ES: DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dazn1.png" group-title="SPORTS", DAZN 1 ES
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115842
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 2 HD" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dazn2.png" group-title="SPORTS", DAZN 2 ES
+#EXTINF:-1 tvg-id="DAZN.2.es" tvg-name="ES: DAZN 2 HD" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dazn2.png" group-title="SPORTS", DAZN 2 ES
 rtmp://f13h.mine.nu/sat/tv741
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 3 FHD" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/dazn3.png" group-title="SPORTS", DAZN 3 ES
+#EXTINF:-1 tvg-id="DAZN.3.es" tvg-name="ES: DAZN 3 FHD" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/dazn3.png" group-title="SPORTS", DAZN 3 ES
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115845
 
 #EXTINF:-1 tvg-name="DAZN Ringside" tvg-id="649b6898f2ec0000081a9460" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dazn.png" group-title="SPORTS",DAZN Ringside
@@ -6789,12 +6796,14 @@ https://tunebox.shop/promo2
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
 
 
-#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/eurosport1.png" group-title="SPORTS",EUROSPORT 1 FRANCE
+#EXTINF:-1 tvg-id="Eurosport.1.fr" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/eurosport1.png" group-title="SPORTS",EUROSPORT 1 FRANCE
 #EXTVLCOPT:http-origin=https://veplay.top/
+http://s1.an94tv.cfd/astro/eurosport1/AKTV.m3u8
 https://ddy6new.newkso.ru/ddy6/premium772/mono.m3u8|referer=https://veplay.top/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/eurosport2.png" group-title="SPORTS",EUROSPORT 2 FRANCE
+#EXTINF:-1 tvg-id="Eurosport.2.fr" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/eurosport2.png" group-title="SPORTS",EUROSPORT 2 FRANCE
 #EXTVLCOPT:http-origin=https://veplay.top/
+http://s1.an94tv.cfd/astro/eurosport2/AKTV.m3u8
 https://ddy6new.newkso.ru/ddy6/premium773/mono.m3u8|referer=https://veplay.top/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
@@ -10246,8 +10255,179 @@ https://atemeshield1-voe.sysln.id/live/eds/RaiItalia/mpd/RaiItalia.mpd
 
 
 
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ H O N G K O N G ▬▬▬▬▬▬▬
+https://tunebox.shop/promo2
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/animax.png" tvg-id="animax.hk",ANIMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
 
 
+
+
+
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ H O N G K O N G ▬▬▬▬▬▬▬
+https://tunebox.shop/promo2
+
+
+
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/axn.png" tvg-id="axn.hk",AXN 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
+
+
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ H O N G K O N G ▬▬▬▬▬▬▬
+https://tunebox.shop/promo2
+
+
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/lovenature.png" tvg-id="love nature hd.hk",LOVE NATURE 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+http://s1.an94tv.cfd/aktv/lovenaturehd/AKTV.m3u8
+
+
+
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ H O N G K O N G ▬▬▬▬▬▬▬
+https://tunebox.shop/promo2
+
+
+
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/popc.png" tvg-id="popc.hk",POPC 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
+
+
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ H O N G K O N G ▬▬▬▬▬▬▬
+https://tunebox.shop/promo2
+
+
+
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rockaction.png" tvg-id="ROCK ACTION.HK",ROCK ACTION 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/tvbpearl.png" tvg-id="tvbplus",TVB Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+http://s1.an94tv.cfd/aktv/tvbplus/AKTV.m3u8
+
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvn.png" tvg-id="tvn.hk",tvN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+http://s1.an94tv.cfd/aktv/tvn/AKTV.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ccm.png" tvg-id="天映經典頻道.hk",CCM 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
+
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/tvbpearldrama.png" tvg-id="明珠台.hk",TVB PEARL DRAMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+http://s1.an94tv.cfd/aktv/CH-19/AKTV.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvbpearl.png" tvg-id="CH-2",PEARL NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
+
+
+
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ H O N G K O N G ▬▬▬▬▬▬▬
+https://tunebox.shop/promo2
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvbnews.png" tvg-id="CH-1",TVB NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/meiahmoviechannel.png" tvg-id="Meiya Movie Channel.hk",MEI AH MOVIE CHANNEL 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
+
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvbdrama.png" tvg-id="Chinese Drama Channel.hk",CHINESE DRAMA CHANNEL 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+http://s1.an94tv.cfd/aktv/CH-18/AKTV.m3u8
+
+
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/tvbj1.png" tvg-id="CH-17",TVB J1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+http://s1.an94tv.cfd/aktv/CH-17/AKTV.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/phoenixchinesechannel.png" tvg-id="CH-3",PHOENIX CHINESE CHANNEL FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/phoenixinfonews.png" tvg-id="CH-4",PHOENIX INFO NEWS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/phoenixtvhongkong.png" tvg-id="CH-5",PHOENIX TV HONG KONG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/mytvsuper.png" tvg-id="CH-6",MYTV SUPER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+http://s1.an94tv.cfd/aktv/CH-6/AKTV.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="NEWS" tvg-id="cna" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cna.png",CNA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+http://s1.an94tv.cfd/aktv3/cna/AKTV.m3u8
+
+
+
+
+
+
+
+
+
+
+tnt
+
+
+#EXTINF:-1 group-title="NEWS" tvg-id="ctiasia.hk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ctiasia.png",CTI ASIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+http://s1.an94tv.cfd/astro/CH-1/AKTV.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="klt.hk" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/klt.png",KLT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+http://s1.an94tv.cfd/taiwan/CH-3/AKTV.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="tvbs.hk" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/tvbs.png",TVBS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-id="tvbsnews.hk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvbs.png",TVBS NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="ftv.hk" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/ftv.png",FTV CHANNEL 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+http://s1.an94tv.cfd/taiwan/CH-1/AKTV.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="ftv.hk" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/ftv.png",FTV CHANNEL 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+http://s1.an94tv.cfd/taiwan/CH-0/AKTV.m3u8
+
+
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="tvbgalaxy.hk" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/tvbgalaxy.png",TVB GALAXY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-id="ctiasia.hk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ctiasia.png",CTI ASIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-id="ettvnews.hk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ettvnews.png",ETTV NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
 
 
 
@@ -10519,68 +10699,6 @@ https://d2kziuzkf9oizb.cloudfront.net/rd004/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="RADlO" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rtbnasional.png",RTB NASIONAL
 https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
